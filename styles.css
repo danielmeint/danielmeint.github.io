@@ -37,6 +37,14 @@ h1 {
     margin-bottom: 15px;
 }
 
+h2 {
+    font-size: 1.2em;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
 p {
     font-size: 1.1em;
     margin: 10px 0;
